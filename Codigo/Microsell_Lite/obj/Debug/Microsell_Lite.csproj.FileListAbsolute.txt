@@ -1,0 +1,70 @@
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Login.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Prod.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Reg_Prod.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Cant.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Login.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Prod.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Reg_Prod.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Cant.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Login.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Prod.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Reg_Prod.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marca.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Cant.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+C:\Users\samue\Desktop\SellPoint\Codigo\Microsell_Lite\obj\Debug\Microsell_Lite.pdb

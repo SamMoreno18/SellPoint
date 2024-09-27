@@ -1,0 +1,22 @@
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\obj\Debug\Prj_Capa.CD50486D.Up2Date
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Users\samue\Desktop\SellPoint\Codigo\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
