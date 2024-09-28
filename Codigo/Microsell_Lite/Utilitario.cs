@@ -7,14 +7,14 @@ using System.Runtime.InteropServices;
 
 namespace Microsell_Lite
 {
-    class Utilitarios
+    class Utilitario
     {
 
-        [DllImport ("user32.dll", EntryPoint="ReleaseCapture")]
+        [DllImport("user32.dll", EntryPoint = "ReleaseCapture")]
         public static extern void ReleaseCapture();
-        [DllImport ("User32.dll", EntryPoint= "SendMessage")]
+        [DllImport("User32.dll", EntryPoint = "SendMessage")]
 
-        public static extern void  SendMessage(System.IntPtr hwnd, int wMsg, int wParam, int Lparam);
+        public static extern void SendMessage(System.IntPtr hwnd, int wMsg, int wParam, int Lparam);
 
         public void Mover_formulario(Form f)
         {
@@ -24,9 +24,9 @@ namespace Microsell_Lite
 
         public int Solo_Letras(int Teclas)
         {
-            
-                   
-            switch (Teclas) 
+
+
+            switch (Teclas)
             {
                 case 65:
                 case 66:
@@ -81,7 +81,7 @@ namespace Microsell_Lite
                 case 120:
                 case 121:
                 case 122:
-                    
+
                 case 8:
                 case 164:
                 case 165:
@@ -91,15 +91,15 @@ namespace Microsell_Lite
                 case 237: //i con tilde
                 case 233:
                 case 44:
-                    
-                    return Teclas  ;
-                default :
+
+                    return Teclas;
+                default:
                     MessageBox.Show("No se Permite Numeros", "Advertencia de Validacfion", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                   break;
+                    break;
 
 
             }
-            return Teclas =0 ;
+            return Teclas = 0;
 
 
         }
