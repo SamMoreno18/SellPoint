@@ -50,7 +50,7 @@ namespace Microsell_Lite
 
         private void Pnl_Menu_MouseMove(object sender, MouseEventArgs e)
         {
-            Utilitarios obj = new Utilitarios();
+            Utilitario obj = new Utilitario();
            if (e.Button ==MouseButtons.Left )
             {
                 obj.Mover_formulario(this);

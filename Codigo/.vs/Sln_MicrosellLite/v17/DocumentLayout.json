@@ -1,111 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBC0ED7-30B7-462E-B840-26680949CF93}|Microsell_Lite\\Microsell_Lite.csproj|C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\microsell_lite\\utilitarios\\frm_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2BBC0ED7-30B7-462E-B840-26680949CF93}|Microsell_Lite\\Microsell_Lite.csproj|solutionrelative:microsell_lite\\utilitarios\\frm_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBC0ED7-30B7-462E-B840-26680949CF93}|Microsell_Lite\\Microsell_Lite.csproj|c:\\users\\samue\\desktop\\sellpoint\\codigo\\microsell_lite\\utilitarios\\frm_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBC0ED7-30B7-462E-B840-26680949CF93}|Microsell_Lite\\Microsell_Lite.csproj|solutionrelative:microsell_lite\\utilitarios\\frm_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBC0ED7-30B7-462E-B840-26680949CF93}|Microsell_Lite\\Microsell_Lite.csproj|C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\microsell_lite\\utilitarios\\frm_categoria.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBC0ED7-30B7-462E-B840-26680949CF93}|Microsell_Lite\\Microsell_Lite.csproj|solutionrelative:microsell_lite\\utilitarios\\frm_categoria.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EA3F302-3E62-410E-89EB-D8CE1885D1F4}|Prj_Capa_Negocio\\Prj_Capa_Negocio.csproj|C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\prj_capa_negocio\\rn_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EA3F302-3E62-410E-89EB-D8CE1885D1F4}|Prj_Capa_Negocio\\Prj_Capa_Negocio.csproj|solutionrelative:prj_capa_negocio\\rn_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEC6F61F-96B4-4BBF-93E4-AEF83F710585}|Prj_Capa_Datos\\Prj_Capa_Datos.csproj|C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\prj_capa_datos\\bd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEC6F61F-96B4-4BBF-93E4-AEF83F710585}|Prj_Capa_Datos\\Prj_Capa_Datos.csproj|solutionrelative:prj_capa_datos\\bd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\Escritorio\\SellPoint\\Codigo\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Frm_Categoria.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Microsell_Lite\\Utilitarios\\Frm_Categoria.Designer.cs",
-              "RelativeDocumentMoniker": "Microsell_Lite\\Utilitarios\\Frm_Categoria.Designer.cs",
-              "ToolTip": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Microsell_Lite\\Utilitarios\\Frm_Categoria.Designer.cs",
-              "RelativeToolTip": "Microsell_Lite\\Utilitarios\\Frm_Categoria.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T18:55:50.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Frm_Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Microsell_Lite\\Utilitarios\\Frm_Categoria.cs",
-              "RelativeDocumentMoniker": "Microsell_Lite\\Utilitarios\\Frm_Categoria.cs",
-              "ToolTip": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Microsell_Lite\\Utilitarios\\Frm_Categoria.cs",
-              "RelativeToolTip": "Microsell_Lite\\Utilitarios\\Frm_Categoria.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAlwAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T18:54:52.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Frm_Categoria.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Microsell_Lite\\Utilitarios\\Frm_Categoria.cs",
-              "RelativeDocumentMoniker": "Microsell_Lite\\Utilitarios\\Frm_Categoria.cs",
-              "ToolTip": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Microsell_Lite\\Utilitarios\\Frm_Categoria.cs [Design]",
-              "RelativeToolTip": "Microsell_Lite\\Utilitarios\\Frm_Categoria.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T18:54:49.414Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RN_Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Prj_Capa_Negocio\\RN_Categoria.cs",
-              "RelativeDocumentMoniker": "Prj_Capa_Negocio\\RN_Categoria.cs",
-              "ToolTip": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Prj_Capa_Negocio\\RN_Categoria.cs",
-              "RelativeToolTip": "Prj_Capa_Negocio\\RN_Categoria.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T18:33:01.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BD_Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Prj_Capa_Datos\\BD_Categoria.cs",
-              "RelativeDocumentMoniker": "Prj_Capa_Datos\\BD_Categoria.cs",
-              "ToolTip": "C:\\Users\\samue\\Desktop\\SellPoint\\Codigo\\Prj_Capa_Datos\\BD_Categoria.cs",
-              "RelativeToolTip": "Prj_Capa_Datos\\BD_Categoria.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T16:38:04.511Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

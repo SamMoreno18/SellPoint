@@ -34,7 +34,7 @@ namespace Microsell_Lite.Productos
 
         private void pnl_titu_MouseMove(object sender, MouseEventArgs e)
         {
-            Utilitarios obj = new Utilitarios();
+            Utilitario obj = new Utilitario();
 
             if (e.Button ==MouseButtons.Left)
             {
